@@ -1,0 +1,11 @@
+{
+    "name": "Calculator",
+    "version": "1.0.0",
+    "description": "This is a calculator.",
+    "manifest_version": 3,
+    "author": "Matas Brazauskas",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Calculator"
+    }
+}
